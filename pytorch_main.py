@@ -8,6 +8,7 @@ if __name__=="__main__":
 
     get_info.torch_info()
     get_info.gpu_info()
+    #that is only for test pulling
 
     print()
 
